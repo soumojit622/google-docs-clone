@@ -1,0 +1,33 @@
+🌟THERE IS A BUG IN THE CLERK AUTHENTICATION PAGE,PLEASE FIX IT
+
+⭐ Liveblocks - https://liveblocks.io/
+⭐ Clerk - https://go.clerk.com/BNbvGnJ
+🌟 Sentry - https://bit.ly/4abT6PG
+
+⭐shadcn ui:-
+npx shadcn-ui@latest add button
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add dialog
+npx shadcn-ui@latest add label 
+npx shadcn-ui@latest add select
+npx shadcn-ui@latest add popover
+
+
+npm i jsm-editor
+npm install -g ts-node
+npx jsm-editor add editor
+
+⭐Themes:-
+npm install @clerk/themes
+
+⭐clerk:-(banerjeesoumojit2@gmail.com)
+npm install @clerk/nextjs
+
+⭐Liveblocks:-(banerjeesoumojit2@gmail.com)
+npm install @liveblocks/client @liveblocks/react @liveblocks/react-ui @liveblocks/react-lexical lexical @lexical/react
+npm install @liveblocks/node
+for config file:- npx create-liveblocks-app@latest --init --framework react
+npm install @liveblocks/react-lexical
+
+⭐sentry:-(banerjeesoumojit2@gmail.com)
+npx @sentry/wizard@latest -i nextjs
