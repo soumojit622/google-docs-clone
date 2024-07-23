@@ -14,9 +14,7 @@ Explore the live application here: [Google Docs Clone Live Demo](https://google-
 - [Features](#-features)
 - [Installation](#-installation)
 - [Usage](#-usage)
-- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
-- [License](#-license)
 - [Contact](#-contact)
 - [Made By](#-made-by)
 - [Acknowledgments](#-acknowledgments)
@@ -97,10 +95,6 @@ Once the server is running, you can:
 - **Manage Documents**: Use the dashboard to organize, search, and manage your documents efficiently.
 - **Comment and Discuss**: Add comments and participate in threaded discussions to collaborate more effectively.
 - **Track Collaborators**: See who is currently working on the document with real-time presence indicators.
-
-## 📸 Screenshots
-
-Include some screenshots here to showcase the application's interface and features.
 
 ## 🤝 Contributing
 
