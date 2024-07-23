@@ -4,6 +4,10 @@
 
 A modern, collaborative document editor that replicates the core functionalities of Google Docs. This application offers real-time collaboration, rich text editing, and a responsive design for an optimal user experience.
 
+## 🌐 Live Demo
+
+Explore the live application here: [Google Docs Clone Live Demo](https://google-docs-clone-delta-six.vercel.app/)
+
 ## 📑 Go To:
 
 - [Technologies Used](#-technologies-used)
